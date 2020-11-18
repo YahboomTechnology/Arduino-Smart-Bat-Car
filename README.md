@@ -12,9 +12,7 @@ Yahboom Arduino Bat Smart Robot is developed with well-known Arduino UNO as the 
 [By on Amazon](https://www.amazon.com/Yahboom-maker-Robotics-Learning-Programmable-Educational/dp/B07RKQHW43/ref=sr_1_1?keywords=yahboom+maker&qid=1567591916&s=gateway&sr=8-1)
 
 [By on Yahboom website](https://category.yahboom.net/collections/a-smart-robot/products/bat-robot-car)
-# Download Method
 
-![](http://r.photo.store.qq.com/psb?/V12aIGgQ3D78BF/HKqntU.tgXYQZZiZtQywAW3vLh*AiXFVEmODCM3p5BM!/r/dD4BAAAAAAAA)
 # Please Contact Us
 If you have any problem when using our robot after checking the tutorial, please contact us.
 ### Facebook:
