@@ -9,8 +9,6 @@ Yahboom Arduino Bat Smart Robot is developed with well-known Arduino UNO as the 
 * It supports multiple functions: Tracking, Ultrasonic obstacle avoidance, Following, etc.
 * It can be controlled by IR remote control and APP remote control by Android mobile. You can switch modes status at any time, such as remote control mode, obstacle avoidance mode, follow mode, and tracking mode by APP.
 # Required Best Buy Links
-[By on Amazon](https://www.amazon.com/Yahboom-maker-Robotics-Learning-Programmable-Educational/dp/B07RKQHW43/ref=sr_1_1?keywords=yahboom+maker&qid=1567591916&s=gateway&sr=8-1)
-
 [By on Yahboom website](https://category.yahboom.net/collections/a-smart-robot/products/bat-robot-car)
 
 # Please Contact Us
